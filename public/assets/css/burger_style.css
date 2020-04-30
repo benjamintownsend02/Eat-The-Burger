@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+}
+
+#header{
+    text-align: center;
+}
+
+.column{
+    float:left;
+    width: 50%;
+}
+
+#form-container{
+    text-align: center;
+}
