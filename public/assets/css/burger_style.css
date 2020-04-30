@@ -11,6 +11,12 @@ body{
     width: 50%;
 }
 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
 #form-container{
     text-align: center;
 }
